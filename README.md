@@ -1,6 +1,16 @@
 # Getting Started with MATLAB, Simulink, and ROS
-### Copyright 2017-2019 The MathWorks, Inc.
-Resources for getting started with MATLAB and Simulink and the Robot Operating System (ROS). This functionality is provided by ROS Toolbox.
+Copyright 2017-2019 The MathWorks, Inc.
+
+## Getting Started
+This repository contains resources for getting started with MATLAB and Simulink 
+and the Robot Operating System (ROS). This functionality is provided by ROS Toolbox.
+
+To learn more, refer to our [blog post](https://blogs.mathworks.com/racing-lounge/2017/11/08/matlab-simulink-ros/) and the following videos.
+
+* [Getting Started with MATLAB and ROS](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-getting-started-with-matlab-and-ros-1508263034047.html)
+* [Getting Started with Simulink and ROS](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-getting-started-with-simulink-and-ros-1509397202143.html)
+* [Deploying Standalone ROS Nodes from Simulink](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-deploying-algorithms-to-ros-1510659362460.html)
+* [Distributed Computing with MATLAB, Simulink, and ROS](https://www.mathworks.com/videos/matlab-and-simulink-robotics-arena-designing-distributed-systems-with-ros-1514584072926.html)
 
 ## templateFiles Folder
 Contains files provide a basic structure for creating your own MATLAB and Simulink files.
