@@ -1,0 +1,1 @@
+Allows "work" folder to exist under source control.
